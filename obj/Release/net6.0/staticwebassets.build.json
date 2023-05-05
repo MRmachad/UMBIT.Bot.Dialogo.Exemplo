@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "lYd94coYHTa4F4jIdZ85qedREBeMCUzjnu+wuy82+j0=",
+  "Source": "UMBIT.Bot.Dialogo.Exemplo",
+  "BasePath": "_content/UMBIT.Bot.Dialogo.Exemplo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "UMBIT.Bot.Dialogo.Exemplo\\wwwroot",
+      "Source": "UMBIT.Bot.Dialogo.Exemplo",
+      "ContentRoot": "D:\\Dev\\ByMySelf\\Pessoal\\UMBIT.Bot.Dialogo.Exemplo\\UMBIT.Bot.Dialogo.Exemplo\\wwwroot\\",
+      "BasePath": "_content/UMBIT.Bot.Dialogo.Exemplo",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Dev\\ByMySelf\\Pessoal\\UMBIT.Bot.Dialogo.Exemplo\\UMBIT.Bot.Dialogo.Exemplo\\wwwroot\\default.htm",
+      "SourceId": "UMBIT.Bot.Dialogo.Exemplo",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Dev\\ByMySelf\\Pessoal\\UMBIT.Bot.Dialogo.Exemplo\\UMBIT.Bot.Dialogo.Exemplo\\wwwroot\\",
+      "BasePath": "_content/UMBIT.Bot.Dialogo.Exemplo",
+      "RelativePath": "default.htm",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.htm"
+    }
+  ]
+}
